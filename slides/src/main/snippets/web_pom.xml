@@ -1,0 +1,17 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>be.anova.webapp</groupId>
+    <artifactId>web</artifactId>
+    <packaging>war</packaging>
+    <name>webapp :: web</name>
+    <version>1.0-SNAPSHOT</version>
+    <url>http://maven.apache.org</url>
+    ...
+    <dependencies>
+        <dependency>
+            <groupId>be.anova.webapp</groupId>
+            <artifactId>core</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+</project>

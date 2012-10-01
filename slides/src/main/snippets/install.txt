@@ -1,0 +1,12 @@
+...
+[INFO] [install:install]
+[INFO] Installing /home/gert/Projects/test/pom.xml to
+ /home/gert/.m2/repository/be/anova/abis/maven-pom/1.0-SNAPSHOT/maven-pom-1.
+ 0-SNAPSHOT.pom
+[INFO]---------------------------------------------
+[INFO] BUILD SUCCESFUL
+[INFO]---------------------------------------------
+[INFO] Total time: 56 seconds
+[INFO] Finished at: Mon Nov 10 09;51:08 CET 2008
+[INFO] Final Memory: 13M/91M
+[INFO]---------------------------------------------

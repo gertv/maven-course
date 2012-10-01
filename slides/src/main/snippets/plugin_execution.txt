@@ -1,0 +1,12 @@
+<plugin>
+...
+    <executions>
+        <execution>
+            <phase>process-resources</phase>
+            <configuration>...</configuration>
+            <goals>
+                <goal>run</goal>
+            </goals>
+        </execution>
+    </executions>
+</plugin>

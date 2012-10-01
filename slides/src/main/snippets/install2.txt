@@ -1,0 +1,17 @@
+gert@pantoef:~/Projects/test$ mvn install
+[INFO] Scanning for projects...
+[INFO] ----------------------------------------------------------------
+[INFO] Building My first Maven POM
+[INFO] task-segment: [install]
+[INFO] ----------------------------------------------------------------
+[INFO] [site:attach-descriptor]
+[INFO] [install:install]
+[INFO] Installing /home/gert/Projects/test/pom.xml to ~/.m2/repository/be/anova/
+abis/maven-pom/1.0-SNAPSHOT/maven-pom-1.0-SNAPSHOT.pom
+[INFO] ----------------------------------------------------------------
+[INFO] BUILD SUCCESSFUL
+[INFO] ----------------------------------------------------------------
+[INFO] Total time: 2 seconds
+[INFO] Finished at: Mon Nov 10 14:24:45 CET 2008
+[INFO] Final Memory: 13M/97M
+[INFO] ----------------------------------------------------------------

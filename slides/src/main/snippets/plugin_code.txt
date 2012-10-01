@@ -1,0 +1,24 @@
+/**
+* @goal run
+* @phase process-sources
+*/
+public class RunningMojo extends AbstractMojo {
+
+/**
+* @parameter expression="${project.build.directory}"
+* @required
+*/
+private File target;
+
+/**
+* @component
+*/
+protected ArtifactResolver resolver;
+
+public void execute() throws MojoExecutionException {
+getLog().info("Running the goal now...");
+getLog().info(" --> outputting to " + target.getAbsolutePath());
+getLog().info("...done!");
+}
+
+}

@@ -3,25 +3,20 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>be.anova.course.cxf</groupId>
+    <groupId>be.anova.course.maven</groupId>
     <artifactId>parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>CXF Course</name>
+    <name>Maven Course</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <scala.version>2.9.1</scala.version>
         <scalate.version>1.5.2</scalate.version>
-        <cxf.version>2.4.2</cxf.version>
+
     </properties>
 
-    <modules>
-        <module>business</module>
-        <module>basic</module>
-        <module>jaxrs</module>
-    </modules>
 
     <dependencyManagement>
         <dependencies>

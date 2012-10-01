@@ -1,0 +1,7 @@
+maven-clean-plugin          clean up after build
+maven-compiler-plugin       compiles Java sources
+maven-deploy-plugin         deploy an artifact into a remote repo
+maven-install-plugin
+maven-resources-plugin
+maven-site-plugin
+maven-surefire-plugin

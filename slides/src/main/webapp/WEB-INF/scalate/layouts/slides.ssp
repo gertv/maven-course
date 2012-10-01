@@ -8,7 +8,7 @@
 </head>
 <body>
   <header>
-    <div id="title">Apache CXF and Spring</div>
+    <div id="title">Apache Maven</div>
     <div id="by">anova r&amp;d bvba</div>
   </header>
   <article>

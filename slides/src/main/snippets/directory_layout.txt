@@ -1,0 +1,19 @@
+/                     -> project root dir
+
+/src                  -> source files
+
+/src/main             -> application source files
+
+/src/main/java        -> Java source files
+
+/src/main/resources   -> other sources (properties, config, ...)
+
+/src/test             -> test source files
+
+/src/test/java        -> Java test source files
+
+/src/test/resources   -> other sources for tests
+
+/target               -> output files (created by build)
+
+/pom.xml              -> POM file

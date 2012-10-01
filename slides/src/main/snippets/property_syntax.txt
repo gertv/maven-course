@@ -1,0 +1,13 @@
+<project ...>
+...
+<name>Project (built with Scala ${scala.version})</name>
+...
+<dependencies>
+    <dependency>
+        <groupId>org.apache.activemq</groupId>
+        <artifactId>activemq-core</artifactId>
+        <version>${activemq.version}</version>
+    </dependency>
+</dependencies>
+
+</project>

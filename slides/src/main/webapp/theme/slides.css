@@ -45,10 +45,11 @@ h1 {
 }
 
 h2 {
-    padding-top: 50px;
-    padding-left: 60px;
-    padding-bottom: 10px;
-    font-size: 32pt;
+     margin-top: 320px;
+     font-size: 29pt;
+     text-align: center;
+     font-weight: normal;
+
 }
 
 
@@ -60,9 +61,8 @@ ul {
 }
 
 ul p {
-    font-size: 29pt;
+    font-size: 15pt;
 }
-
 
 li {
     padding-top: 5px;
@@ -78,8 +78,8 @@ ul ul {
 
 div.syntax {
     background-color: #DEDEDE;
-    font-size: 15pt;
+    font-size: 13pt;
     padding: 10px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
