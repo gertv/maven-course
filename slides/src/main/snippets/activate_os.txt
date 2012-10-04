@@ -1,0 +1,13 @@
+<profiles>
+  <profile>
+    <activation>
+      <os>
+        <name>Windows XP</name>
+        <family>Windows</family>
+        <arch>x86</arch>
+        <version>5.1.2600</version>
+      </os>
+    </activation>
+    ...
+  </profile>
+</profiles>

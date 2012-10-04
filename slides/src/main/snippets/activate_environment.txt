@@ -1,0 +1,8 @@
+<profiles>
+  <profile>
+    <activation>
+      <jdk>1.4</jdk>
+    </activation>
+    ...
+  </profile>
+</profiles>
