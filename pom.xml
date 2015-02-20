@@ -17,6 +17,10 @@
 
     </properties>
 
+    <modules>
+      <module>slides</module>
+    </modules>
+
 
     <dependencyManagement>
         <dependencies>
